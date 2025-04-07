@@ -10,10 +10,5 @@ namespace DataAccess.Context
         public PollDbContext(DbContextOptions<PollDbContext> options) : base(options) {}
 
         public DbSet<Poll> Polls { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseLazyLoadingProxies();
-        }
     }
 }
