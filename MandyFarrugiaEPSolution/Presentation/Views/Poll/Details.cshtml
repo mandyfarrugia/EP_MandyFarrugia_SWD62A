@@ -1,0 +1,40 @@
+﻿@model Domain.Models.Poll
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-5">
+    <h1 class="display-4 text-center">Poll Voting System</h1>
+
+    <div class="list-group mt-4">
+        @if (!string.IsNullOrEmpty(Model.Option1Text))
+        {
+            <div class="list-group-item">
+                <div class="form-check">
+                    <label class="form-check-label">@Model.Option1Text</label>
+                </div>
+            </div>
+        }
+        @if (!string.IsNullOrEmpty(Model.Option2Text))
+        {
+            <div class="list-group-item">
+                <div class="form-check">
+                    <label class="form-check-label">@Model.Option2Text</label>
+                </div>
+            </div>
+        }
+        @if (!string.IsNullOrEmpty(Model.Option3Text))
+        {
+            <div class="list-group-item">
+                <div class="form-check">
+                    <label class="form-check-label">@Model.Option3Text</label>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="text-center mt-4">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Back to Polls</a>
+    </div>
+</div>

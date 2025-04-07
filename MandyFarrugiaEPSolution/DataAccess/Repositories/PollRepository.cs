@@ -25,6 +25,7 @@ namespace DataAccess.Repositories
 
         public void CreatePoll(Poll poll)
         {
+            poll.CreatedAt = DateTime.Now;
             this.context.Polls.Add(poll);
             this.context.SaveChanges();
         }
