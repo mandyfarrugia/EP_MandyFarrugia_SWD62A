@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mandy\\source\\repos\\EP_MandyFarrugia_SWD62A\\MandyFarrugiaEPSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27218F0F-8BFD-444B-B899-FC74D3EC4B39}|Presentation\\Presentation.csproj|c:\\users\\mandy\\source\\repos\\ep_mandyfarrugia_swd62a\\mandyfarrugiaepsolution\\presentation\\views\\poll\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27218F0F-8BFD-444B-B899-FC74D3EC4B39}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\poll\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27218F0F-8BFD-444B-B899-FC74D3EC4B39}|Presentation\\Presentation.csproj|c:\\users\\mandy\\source\\repos\\ep_mandyfarrugia_swd62a\\mandyfarrugiaepsolution\\presentation\\views\\poll\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{27218F0F-8BFD-444B-B899-FC74D3EC4B39}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\poll\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27218F0F-8BFD-444B-B899-FC74D3EC4B39}|Presentation\\Presentation.csproj|c:\\users\\mandy\\source\\repos\\ep_mandyfarrugia_swd62a\\mandyfarrugiaepsolution\\presentation\\views\\poll\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27218F0F-8BFD-444B-B899-FC74D3EC4B39}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\poll\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27218F0F-8BFD-444B-B899-FC74D3EC4B39}|Presentation\\Presentation.csproj|c:\\users\\mandy\\source\\repos\\ep_mandyfarrugia_swd62a\\mandyfarrugiaepsolution\\presentation\\controllers\\pollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,17 +65,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Mandy\\source\\repos\\EP_MandyFarrugia_SWD62A\\MandyFarrugiaEPSolution\\Presentation\\Views\\Poll\\Details.cshtml",
               "RelativeDocumentMoniker": "Presentation\\Views\\Poll\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Mandy\\source\\repos\\EP_MandyFarrugia_SWD62A\\MandyFarrugiaEPSolution\\Presentation\\Views\\Poll\\Details.cshtml*",
-              "RelativeToolTip": "Presentation\\Views\\Poll\\Details.cshtml*",
-              "ViewState": "AgIAADgAAAAAAAAAAADwv04AAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mandy\\source\\repos\\EP_MandyFarrugia_SWD62A\\MandyFarrugiaEPSolution\\Presentation\\Views\\Poll\\Details.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Poll\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-07T21:20:41.797Z",
               "EditorCaption": ""
@@ -88,7 +88,7 @@
               "RelativeDocumentMoniker": "Presentation\\Controllers\\PollController.cs",
               "ToolTip": "C:\\Users\\Mandy\\source\\repos\\EP_MandyFarrugia_SWD62A\\MandyFarrugiaEPSolution\\Presentation\\Controllers\\PollController.cs",
               "RelativeToolTip": "Presentation\\Controllers\\PollController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T20:46:37.37Z",
               "EditorCaption": ""
@@ -160,13 +160,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mandy\\source\\repos\\EP_MandyFarrugia_SWD62A\\MandyFarrugiaEPSolution\\Presentation\\Views\\Poll\\Index.cshtml",
               "RelativeDocumentMoniker": "Presentation\\Views\\Poll\\Index.cshtml",
               "ToolTip": "C:\\Users\\Mandy\\source\\repos\\EP_MandyFarrugia_SWD62A\\MandyFarrugiaEPSolution\\Presentation\\Views\\Poll\\Index.cshtml",
               "RelativeToolTip": "Presentation\\Views\\Poll\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-07T21:10:15.222Z",
               "EditorCaption": ""
