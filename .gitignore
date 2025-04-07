@@ -2,13 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/MandyFarrugiaEPSolution/.vs/MandyFarrugiaEPSolution/FileContentIndex/86771493-d291-4913-a55c-4be6509411c6.vsidx
-/MandyFarrugiaEPSolution/.vs/MandyFarrugiaEPSolution/FileContentIndex/966c6a7d-2f05-4309-b70b-5aed8e98c75b.vsidx
-/MandyFarrugiaEPSolution/.vs/MandyFarrugiaEPSolution/FileContentIndex/a1f7bc60-a2f9-443d-b198-676b045ca65b.vsidx
-/MandyFarrugiaEPSolution/.vs/MandyFarrugiaEPSolution/FileContentIndex/a7181426-f4b8-4200-945f-2399920f62e9.vsidx
-/MandyFarrugiaEPSolution/.vs/MandyFarrugiaEPSolution/FileContentIndex/42e2e30e-ca57-4441-94cc-a0e522294a7b.vsidx
-/MandyFarrugiaEPSolution/.vs/MandyFarrugiaEPSolution/FileContentIndex/a0dcd58b-47f5-4623-8f45-b06cb4bc94ec.vsidx
-/MandyFarrugiaEPSolution/.vs/MandyFarrugiaEPSolution/FileContentIndex/e8e49bee-05d9-40a4-9647-cade152de16a.vsidx
-/MandyFarrugiaEPSolution/.vs/MandyFarrugiaEPSolution/FileContentIndex/594c81be-7359-4cdb-9378-3e6857102f5b.vsidx
-/MandyFarrugiaEPSolution/.vs/MandyFarrugiaEPSolution/FileContentIndex/6a0bd303-5670-4dce-af13-958d8000158d.vsidx
 *.vsidx
